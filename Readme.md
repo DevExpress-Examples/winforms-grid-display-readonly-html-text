@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Main.cs](./CS/WindowsApplication3/Main.cs) (VB: [Main.vb](./VB/WindowsApplication3/Main.vb))
+* [RepositoryItemHtmlLabel.cs](./CS/WindowsApplication3/RepositoryItemHtmlLabel.cs) (VB: [RepositoryItemHtmlLabel.vb](./VB/WindowsApplication3/RepositoryItemHtmlLabel.vb))
+<!-- default file list end -->
 # How to create a custom editor allowing you to display a readonly HTML formatted text 
 
 
