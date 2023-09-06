@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 
-# WinForms Data Grid - Display a readonly HTML formatted text in data cells
+# WinForms Data Grid - Display read-only HTML text in data cells
 
 This example creates a [HypertextLabel](https://docs.devexpress.com/WindowsForms/DevExpress.XtraEditors.Repository.RepositoryItemHypertextLabel) editor and assigns it to the **Html** column to display an HTML formatted text (data editing is not supported). The `HypertextLabel` control was first introduced in v17.2.
 
