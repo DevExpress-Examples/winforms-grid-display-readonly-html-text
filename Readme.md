@@ -6,7 +6,7 @@
 
 # WinForms Data Grid - Display read-only HTML text in data cells
 
-This example creates a [HypertextLabel](https://docs.devexpress.com/WindowsForms/DevExpress.XtraEditors.Repository.RepositoryItemHypertextLabel) editor and assigns it to the **Html** column to display an HTML formatted text (data editing is not supported). The `HypertextLabel` control was first introduced in v17.2.
+This example creates a [HypertextLabel](https://docs.devexpress.com/WindowsForms/DevExpress.XtraEditors.Repository.RepositoryItemHypertextLabel) editor and assigns it to the **Html** column to display HTML formatted text (data editing is not supported). The `HypertextLabel` control was first introduced in v17.2.
 
 ![](https://raw.githubusercontent.com/DevExpress-Examples/how-to-display-a-readonly-html-formatted-text-in-grid-cells-e3167/17.2.3%2B/media/winforms-grid-html-formatting.png)
 
