@@ -9,7 +9,7 @@
 
 This example creates a [HypertextLabel](https://docs.devexpress.com/WindowsForms/DevExpress.XtraEditors.Repository.RepositoryItemHypertextLabel) editor and assigns it to the **Html** column to display HTML formatted text (data editing is not supported). The `HypertextLabel` control was first introduced in v17.2.
 
-![](https://raw.githubusercontent.com/DevExpress-Examples/how-to-display-a-readonly-html-formatted-text-in-grid-cells-e3167/17.2.3%2B/media/winforms-grid-html-formatting.png)
+![WinForms Data Grid - Display read-only HTML text in data cells, DevExpress](media/winforms-grid-html-formatting.png)
 
 ```csharp
 private void OnFormLoad(object sender, EventArgs e) {
@@ -59,3 +59,4 @@ private static DataTable CreateData() {
 
 (you will be redirected to DevExpress.com to submit your response)
 <!-- feedback end -->
+
